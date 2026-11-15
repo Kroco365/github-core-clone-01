@@ -1,6 +1,12 @@
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Kroco365/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Kroco365/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 # git-core-clone
 
 A GitHub-compatible git forge in one stdlib-only Node 22 process. No dependencies, no install step: run `node main.ts` (Node strips the erasable TypeScript types).
+
+Entry for the [make.fun github-core-clone-01 bounty](https://make.fun/bounty/github-core-clone-01): build a GitHub-compatible git forge.
 
 ## What it serves
 
